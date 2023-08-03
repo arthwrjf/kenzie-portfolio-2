@@ -53,9 +53,14 @@ export const Home = (): JSX.Element => {
               </Text>{" "}
               criar e{" "}
               <Text as="span" type="heading1" color="brand1">
-                desensolver
+                desenvolver
               </Text>{" "}
               projetos
+            </Text>
+            <Text type="body1" color="grey2">
+              Sempre gostei de tecnologia, desde a minha infância sempre tive curiosidade, sempre quis aprender mais sobre tudo,
+              hoje estou realizando um sonho de começar a minha carreria como um dev Full Stack e estou muito feliz em compartilhar
+              todo o meu conhecimento e meus trabalhos com vocês, sintam-se a vontade :]
             </Text>
             <Text type="body1" color="grey2">
               Descubra aqui neste ambiente, criado especialmente para você, todos
